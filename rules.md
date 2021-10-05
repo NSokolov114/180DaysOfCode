@@ -12,7 +12,7 @@ I will code every day and post a weekly update here.
 1.5. (0.5h+) CodeWars - solved JS kata(s)
 
 ### Daily Tasks
-2.1. 9k steps  
+2.1. 7k steps  
 2.2. (60min) Workout / Active Rest  
 2.3. (15min) ENG Speaking  
 2.4. (15min) Dance  
@@ -41,15 +41,19 @@ I will code every day and post a weekly update here.
 5.7. PC games  
 5.8. TV  
 
-### Weeklies
-6.1. LinkedIn  
-6.2. Instagram  
-6.3. Unsplash  
-6.4. Portfolio   
+### Social Media
+6.1. LinkedIn (repost)  
+6.2. Dev.to (articles)  
+6.3. GitHub (codebase)  
+6.4. YouTube (videos)
+6.5. CodePen (code samples)  
+6.6. Portfolio  
+6.7. Instagram  
+6.8. Unsplash
 
 
 ### Start Date
-Oct 3, 2021
+Oct 6, 2021
 
 ## Why do I need this challenge?
 To make doing 'good' things easier.

@@ -1,7 +1,7 @@
 # 180DaysOfCode - Log
 
 
-### (week 0) October 3-9, 2021
+### (week 0) October 6-12, 2021
 ...  
 TIL: [](), []()  
 T:  
