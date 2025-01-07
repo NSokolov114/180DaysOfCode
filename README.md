@@ -1,11 +1,8 @@
 # #180DaysOfCode
 
 ## Contents
-* [Rules](rules.md)
 * [Log](log.md)
-* [FAQ](FAQ.md) ???
 * [Coding Resources](resources-programming.md)
-* [Lifestyle Resources](resources-other.md)
 * [Ideas for Projects](ideas-for-projects.md)
 
 ## About
