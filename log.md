@@ -1,16 +1,12 @@
 # 180DaysOfCode - Log
 
 
-### (week 0) October 6-12, 2021
+### (week 1) Jan 8-14, 2024
 ...  
 TIL: [](), []()  
 T:  
 
 
-## Contents
-* [Rules](rules.md)
-* [Log](log.md)
-* [FAQ](FAQ.md) ???
-* [Coding Resources](resources-programming.md)
-* [Lifestyle Resources](resources-other.md)
+## Links
+* [Coding Resources](resources-programming.md)  
 * [Ideas for Projects](ideas-for-projects.md)
