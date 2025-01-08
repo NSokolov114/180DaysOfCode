@@ -17,7 +17,9 @@ A heat map of progress (like on GitHub, but 1 line for tracking 1 habit).
 It's not convenient to track the time of activities on the go on web, so either make it very mobile friendly, on focus on the rulebook aspect.  
 
 ### Excel <---> XML converter
-Mockup version of the tool that would be really useful at work, but there's always something more important. I can build a draft and test some ideas on my own time.
+Mockup version of the tool that would be really useful at work, but there's always something more important. I can build a draft and test some ideas on my own time.  
+The tool should parse an Excel multipage spreadsheet (all files are based on the same template, number of elements can change, some data can be missing), validate the data, correct the data if possible, clean the data, create XML string (based on the same template) and save it in a new file.  
+The tool should allow to perform the reverse operation, the only difference is that the XML data is clean (always present, and formatted correctly).
 
 ### Visualisation for sorting algorithms
 
