@@ -16,6 +16,9 @@ Maybe with a rulebook and links to extra info.
 A heat map of progress (like on GitHub, but 1 line for tracking 1 habit).  
 It's not convenient to track the time of activities on the go on web, so either make it very mobile friendly, on focus on the rulebook aspect.  
 
+### Excel <---> XML converter
+Mockup version of the tool that would be really useful at work, but there's always something more important. I can build a draft and test some ideas on my own time.
+
 ### Visualisation for sorting algorithms
 
 ## Contents
