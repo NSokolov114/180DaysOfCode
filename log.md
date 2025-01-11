@@ -2,6 +2,7 @@
 
 
 ### (week 1) Jan 8-14, 2024
+(3) course 38/553 
 (2) course 27/553 (2: C# Fundamentals)  
 (1) course 10/553 (1: Introduction), init commit for [Excel-XML Converter](https://github.com/NSokolov114/ExcelXMLConverter)  
 TIL: [Google Docs shortcuts](https://support.google.com/docs/answer/179738?hl=en#zippy=%2Cpc-shortcuts), []()  
