@@ -2,6 +2,7 @@
 
 
 ### (week 1) Jan 8-14, 2024
+(5) day off 2  
 (4) day off 1  
 (3) course 38/553  
 (2) course 27/553 (2: C# Fundamentals)  
