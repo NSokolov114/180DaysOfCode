@@ -6,6 +6,7 @@ The log for the first is [here](https://github.com/NSokolov114/100DaysOfCode). T
 
 The goal of this challenge is to fill in the gaps by completing one big [course](https://www.udemy.com/course/ultimate-csharp-masterclass) on C#. I don't know what I don't know, and it turns out that learning things to complete a specific task for work isn't sufficient.
 
+The goal is to study in my free time for 100+ days out of 180. As much as I like perfection, it's not going to happen, with the full-time job and travelling.
 
 ## Links
 * [Log](log.md)
