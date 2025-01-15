@@ -24,6 +24,9 @@ Also in the real application XML document is never edited directly, it's convert
 
 ### Visualisation for sorting algorithms
 
+### Sudoku Solver
+It would be interesting to write a sudoku solver that uses different algorithms and shows on one screen the progress for the same number of iterations (or maybe it should use a different metric, like amount of resources spent).
+
 ## Contents
 * [Log](log.md)
 * [Resources](resources-programming.md)
