@@ -23,7 +23,9 @@ The tool should allow to perform the reverse operation, the only difference is t
 Also in the real application XML document is never edited directly, it's converted to a class. Should I do it in the same way or should I parse it?
 
 ### Visualisation for sorting algorithms
-C# backend + React frontend? But there's no much logic to justify the backend, and without web front it's going to look ugly. Maybe do it with text graphics?Not sure.
+C# backend + React frontend?  
+But there's no much logic to justify the backend. Without web front it's going to look ugly.  
+Maybe do it with text-based graphics?.. Not sure.
 
 ### Sudoku Solver
 It would be interesting to write a sudoku solver that uses different algorithms and shows on one screen the progress for the same number of iterations (or maybe it should use a different metric, like amount of resources spent).
