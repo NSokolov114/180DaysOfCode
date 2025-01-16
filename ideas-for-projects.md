@@ -28,7 +28,8 @@ But there's no much logic to justify the backend. Without web front it's going t
 Maybe do it with text-based graphics?.. Not sure.
 
 ### Sudoku Solver
-It would be interesting to write a sudoku solver that uses different algorithms and shows on one screen the progress for the same number of iterations (or maybe it should use a different metric, like amount of resources spent).
+It would be interesting to write a sudoku solver that uses different algorithms and shows on one screen the progress for the same number of iterations (or maybe it should use a different metric, like amount of resources spent).  
+It also can be drawn with symbols instead in console-like style.
 
 ## Contents
 * [Log](log.md)
